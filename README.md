@@ -1,2 +1,2 @@
-# Poker-hand-analysis
-Attempting to make sense of randomness (texas holden)
+# Poker hand analysis
+Using Monte Carlo algorithm to make inferences and decisions based on poker hands at any stage of the game
